@@ -1,0 +1,2 @@
+include ':DataBindingForTextView'
+rootProject.name = "DataBindingJetPack"
